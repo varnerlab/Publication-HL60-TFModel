@@ -1,0 +1,54 @@
+This is BibTeX, Version 0.99d (TeX Live 2015)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: Paper_v1.aux
+The style file: msb.bst
+format.org.or.pub is an unknown function---line 862 of file msb.bst
+format.org.or.pub is an unknown function---line 870 of file msb.bst
+Database file #1: References_TFModel.bib
+Warning--entry type for "Jones2001" isn't style-file defined
+--line 525 of file References_TFModel.bib
+`journal' is a missing field, not a string, for entry BEKS14
+while executing---line 1413 of file msb.bst
+Warning--empty journal in BEKS14
+You've used 99 entries,
+            2578 wiz_defined-function locations,
+            1234 strings with 27458 characters,
+and the built_in function-call counts, 71494 in all, are:
+= -- 6680
+> -- 5467
+< -- 26
++ -- 5305
+- -- 1518
+* -- 6246
+:= -- 11298
+add.period$ -- 98
+call.type$ -- 99
+change.case$ -- 902
+chr.to.int$ -- 98
+cite$ -- 100
+duplicate$ -- 2336
+empty$ -- 3458
+format.name$ -- 1843
+if$ -- 13902
+int.to.chr$ -- 2
+int.to.str$ -- 1
+missing$ -- 0
+newline$ -- 302
+num.names$ -- 396
+pop$ -- 2205
+preamble$ -- 1
+purify$ -- 999
+quote$ -- 0
+skip$ -- 2410
+stack$ -- 0
+substring$ -- 2964
+swap$ -- 466
+text.length$ -- 2
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 888
+warning$ -- 1
+while$ -- 393
+width$ -- 0
+write$ -- 1088
+(There were 3 error messages)
